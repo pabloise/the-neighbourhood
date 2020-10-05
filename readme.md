@@ -1,6 +1,10 @@
 # The Neighbourhood newspaper
 
+<<<<<<< HEAD
 ###### To response to the task of the Week 01 I used an article of e-sports that I found in The Conversation website. This is the link.
+=======
+###### To response to the task of the Week 01 I used an article of e-sports that I found in The Conversation website.  [This](https://theconversation.com/esports-could-be-quietly-spawning-a-whole-new-generation-of-problem-gamblers-147124) is the link.
+>>>>>>> 4f148a9b0c52f1dc0e8275030b9e7b3343df0feb
 
 ***After watching the Git tutorial and learned how to use Github, I started working in Visual 
 Studio Code and, step by step, checked that everything matched with the selected article. 
