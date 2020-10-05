@@ -8,3 +8,4 @@ After every significative progress, I used Git comands in PowerShell to commit a
 
 ***The chosen article has an important amount of tweets and links that made me concentrate in keeping 
 a clean code in VS Code. Also, there was photos and a video, according to the task required.***
+
