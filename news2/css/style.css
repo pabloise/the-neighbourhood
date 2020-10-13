@@ -1,7 +1,10 @@
 header {
+    padding: 0px 0px 36px;
+}
+
+.article {
     margin: 0 auto;
     max-width: 926px;
-    padding: 0px 0px 36px;
 }
 
 .article h1 {
@@ -9,7 +12,7 @@ header {
     font-size: 38px;
     font-family: Montserrat,sans-serif;
     line-height: normal;
-    margin-bottom: 18px;
+    margin-bottom: 12px;
 }
 
 .date {
@@ -31,6 +34,7 @@ img {
 }
 
 .wrapperArticle {
+    padding-left: 152px;
     max-width: 754px;
     margin: 0 auto;
 }
@@ -49,10 +53,17 @@ a:hover {
     color: #383838;
     margin-bottom: 18px;
     font-size: 18px;
+    margin-top: 0px;
 }
 
 .wrapperVideo {
     padding-bottom: 15px;
+}
+
+.wrapperVimeo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
 }
 
 .article h2 {
@@ -76,10 +87,12 @@ blockquote p {
 
 .icon {
     content: url(images/tag.svg);
-    width: 1.231em;
-    font-size: 1.231em;
+    width: 16px;
+    font-size: 19px;
     display: inline-block;
     color: #383838;
+    position: absolute;
+    margin: 0px;
 }
 
 .link {
@@ -95,6 +108,7 @@ blockquote p {
     text-decoration: none;
     font-family: Helvetica Neue,Helvetica,sans-serif;
     line-height: 18px;
+    
 }
 
 .link:hover {

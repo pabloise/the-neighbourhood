@@ -1,7 +1,10 @@
 header {
+    padding: 0px 0px 36px;
+}
+
+.article {
     margin: 0 auto;
     max-width: 926px;
-    padding: 0px 0px 36px;
 }
 
 .article h1 {
@@ -54,7 +57,12 @@ hr {
     color: #383838;
 }
 
+.hrtext p{
+    margin-bottom: 18px;
+}
+
 .wrapperArticle {
+    padding-left: 152px;
     max-width: 754px;
     margin: 0 auto;
 }
